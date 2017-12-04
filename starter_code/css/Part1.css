@@ -1,12 +1,12 @@
 .current_page {
   font-style: italic;
-  color: #ffff;
+  color: #e5e1d8;
   font-size: 15px;
 }
 body{
   background: black;
-  color: #ffff;
-  font-family: oswald;
+  color: #e5e1d8;
+  font-family: Nunito;
   line-height: 1.5;
   border-top: 5px solid #c905ff;
   border-bottom: 5px solid #c905ff;
@@ -28,7 +28,7 @@ padding: 5px;
 }
 nav{
   text-align: center;
-  color: #ffff
+  color: #e5e1d8
 
 }
 nav ul{
@@ -42,7 +42,7 @@ h1{
   text-transform: uppercase;
   text-align: center;
   margin-top: 0px;
-  color: #ffff;
+  color: #e5e1d8;
   font-weight: bold;
 
 }
@@ -54,7 +54,7 @@ p{
   font-size: 20px;
 }
 a{
-  color: #ffff;
+  color: #e5e1d8;
   font-weight: bold;
   font-size: 15px;
 }
@@ -75,4 +75,14 @@ h4{
 }
 li.sqr{
   list-style-type: square;
+}
+.job_title{
+  font-weight: bold;
+}
+.employer{
+  font-style: italic;
+}
+.employment_time{
+  font-variant: small;
+  font-style: small;
 }
